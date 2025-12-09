@@ -2,7 +2,7 @@
 
 Projeto desenvolvido para a disciplina Estrutura de Dados.
 
-##📌 Objetivo:
+📌 Objetivo:
 Implementar um sistema em C capaz de:
 - Cadastrar até 5 alunos
 - Registrar 3 notas por aluno
@@ -13,7 +13,7 @@ Implementar um sistema em C capaz de:
   - Quantidade de aprovados (média ≥ 7)
 - Exibir relatório completo
 
-##🧠 Tecnologias e Conceitos Utilizados:
+🧠 Tecnologias e Conceitos Utilizados:
 - Linguagem C
 - Ponteiros
 - Vetores
@@ -22,7 +22,7 @@ Implementar um sistema em C capaz de:
 - Funções com passagem por referência
 - Laços de repetição e menu dinâmico
 
-##📂 Estrutura do Projeto
+📂 Estrutura do Projeto
 📦 student-grade-system-c
  ┣ 📂 src
  ┃ ┗ 📄 main.c
@@ -31,7 +31,7 @@ Implementar um sistema em C capaz de:
  ┣ 📄 README.md
  ┗ 📄 .gitignore
 
-##▶ Como executar
+▶ Como executar
 Baixe o projeto:
 git clone (https://github.com/MatteusKill/student-grade-system-c)
 
