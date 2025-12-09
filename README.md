@@ -24,9 +24,9 @@ Implementar um sistema em C capaz de:
 
 📂 Estrutura do Projeto
 📦 student-grade-system-c
- ┣ 📂 src
- ┃ ┗ 📄 main.c
  ┣ 📂 docs
+ ┃ ┗ 📄 Trabalho_EstruturaDeDados_Matteus.pdf
+ ┣ 📂 src
  ┃ ┗ 📄 Trabalho_EstruturaDeDados_Matteus.pdf
  ┣ 📄 README.md
  ┗ 📄 .gitignore
