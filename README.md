@@ -1,4 +1,4 @@
-Sistema de Cadastro e Análise de Notas – Linguagem C
+# Sistema de Cadastro e Análise de Notas – Linguagem C
 
 Projeto desenvolvido para a disciplina Estrutura de Dados.
 
