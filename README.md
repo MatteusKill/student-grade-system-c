@@ -1,8 +1,7 @@
 # Sistema de Cadastro e Análise de Notas – Linguagem C
+Projeto desenvolvido para a disciplina Estrutura de Dados.
 
-## Projeto desenvolvido para a disciplina Estrutura de Dados.
-
-📌 Objetivo:
+## 📌 Objetivo:
 Implementar um sistema em C capaz de:
 - Cadastrar até 5 alunos
 - Registrar 3 notas por aluno
