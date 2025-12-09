@@ -39,7 +39,8 @@ Implementar um sistema em C capaz de:
  
  ┗ 📄 .gitignore
 
-▶ Como executar
+
+## ▶ Como executar
 
 Baixe o projeto:
 git clone (https://github.com/MatteusKill/student-grade-system-c)
