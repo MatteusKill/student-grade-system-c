@@ -28,8 +28,7 @@ Implementar um sistema em C capaz de:
 📦 student-grade-system-c
  
  ┣ 📂 docs                                    
- ┃ ┗ 📄 Trabalho_EstruturaDeDados_Matteus.pdf
- 
+ ┃ ┗ 📄 Trabalho_EstruturaDeDados_Matteus.pdf  
  ┣ 📂 src                                    
  ┃ ┗ 📄 TrabalhoEstruturaMatteusKill.cpp      
  ┣ 📄 README.md                              
