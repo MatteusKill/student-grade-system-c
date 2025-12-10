@@ -45,5 +45,5 @@ Implementar um sistema em C capaz de:
 
 ## 🙋🏽‍♂️ Autor
 
-Matteus Anderson Lopez Kill
-GitHub: github.com/MatteusKill
+Matteus Anderson Lopez Kill  
+GitHub: https://github.com/MatteusKill
