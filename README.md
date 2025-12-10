@@ -37,11 +37,13 @@ Implementar um sistema em C capaz de:
 
 ## ▶ Como executar
 
-Baixe o projeto:
-git clone (https://github.com/MatteusKill/student-grade-system-c)
+= Baixe o projeto ou copie o código diretamente da pasta doc
 
-Compile:
-gcc src/main.c -o sistema
+= Inicie em algum compilador C
 
-Execute:
-./sistema
+= Cole o código e execute
+
+## Autor
+
+Matteus Anderson Lopez Kill
+GitHub: github.com/MatteusKill
