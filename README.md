@@ -37,11 +37,11 @@ Implementar um sistema em C capaz de:
 
 ## ▶ Como executar
 
-= Baixe o projeto ou copie o código diretamente da pasta doc
+- Baixe o projeto ou copie o código diretamente da pasta doc
 
-= Inicie em algum compilador C
+- Inicie em algum compilador C
 
-= Cole o código e execute
+- Cole o código e execute
 
 ## 🙋🏽‍♂️ Autor
 
