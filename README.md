@@ -28,11 +28,11 @@ Implementar um sistema em C capaz de:
 📦 student-grade-system-c
  
  ┣ 📂 docs                                    
- ┃ ┗ 📄 Trabalho_EstruturaDeDados_Matteus.pdf  
+ ┃ ┗ 📄 Trabalho_EstruturaDeDados_Matteus.pdf (Documento enviado para a professora)
  ┣ 📂 src                                    
- ┃ ┗ 📄 TrabalhoEstruturaMatteusKill.cpp      
+ ┃ ┗ 📄 main.c      
  ┣ 📄 README.md                              
- ┗ 📄 .gitignore                            
+ ┗ 📄 LICENSE                            
 
 
 ## ▶ Como executar
