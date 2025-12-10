@@ -43,7 +43,7 @@ Implementar um sistema em C capaz de:
 
 = Cole o código e execute
 
-## Autor
+## 🙋🏽‍♂️ Autor
 
 Matteus Anderson Lopez Kill
 GitHub: github.com/MatteusKill
