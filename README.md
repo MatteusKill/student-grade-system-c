@@ -27,12 +27,12 @@ Implementar um sistema em C capaz de:
 
 📦 student-grade-system-c
  
- ┣ 📂 docs
+ ┣ 📂 docs                                    
  ┃ ┗ 📄 Trabalho_EstruturaDeDados_Matteus.pdf
- ┣ 📂 src
- ┃ ┗ 📄 TrabalhoEstruturaMatteusKill.cpp
- ┣ 📄 README.md
- ┗ 📄 .gitignore
+ ┣ 📂 src                                    
+ ┃ ┗ 📄 TrabalhoEstruturaMatteusKill.cpp      
+ ┣ 📄 README.md                              
+ ┗ 📄 .gitignore                            
 
 
 ## ▶ Como executar
